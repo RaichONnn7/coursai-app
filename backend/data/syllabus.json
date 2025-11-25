@@ -1,0 +1,2351 @@
+{
+  "course_id": "LASM1FA1J14",
+  "course_name": "比較文化社会",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "イスマトフ アジズ",
+  "category": "教養選択",
+  "subcategory": "現代社会・文化理解",
+  "field": "社会・文化比較",
+
+
+  "grading": {
+    "exam": 0,
+    "report": 60,
+    "attendance": 40,
+    "description": "グループ内発表内容（20％）、発表への貢献度（20％）、2回のグループ発表（40％）、授業への参加状況（20％）を総合して評価する。発表準備やディスカッションへの積極的参加が重要となる。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、日本人学生と留学生が混合グループを組み、各国の社会・文化を比較しながら相違点や共通点を探る活動を通して、異文化理解とコミュニケーション力を養う。プレゼンテーション、ディスカッション、フィールドワーク、ポスター発表、パンフレット作成などのアクティブラーニングによって、自国文化を整理し他者にわかりやすく伝える力を身につける。ICTを活用した留学生との交流も含まれ、多文化共生社会への理解を深める内容となっている。",
+    "goals": [
+      "自国の社会・文化を整理し説明できる能力を身につける",
+      "各国の文化や社会的特徴を比較し理解する",
+      "留学生との協働を通じて異文化コミュニケーション力を養う",
+      "プレゼンテーションやポスター作成などの表現力を向上させる",
+      "フィールドワークを通して実体験に基づく文化理解を深める"
+    ],
+    "textbook": "指定教科書なし",
+    "prerequisites": "受講要件なし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "普通（週2〜4時間程度の発表・準備作業が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "なし（発表・制作物中心）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": true
+  }
+}
+
+
+
+
+{
+  "course_id": "LASM1BA1J14",
+  "course_name": "法学入門",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 3,
+  "instructor": "竹内 徹",
+  "category": "教養選択",
+  "subcategory": "現代社会・法律",
+  "field": "法学",
+
+
+  "grading": {
+    "exam": 70,
+    "report": 30,
+    "attendance": 0,
+    "description": "まとめテスト70％、毎回のリアクションペーパー30％を総合して評価する。法律制度の理解と、制度の課題を批判的に検討する姿勢が重視される。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、私たちの暮らしに身近な法律として、憲法・民法・刑法の基礎を学ぶ。現代社会のあらゆる場面には法律が関係しており、法制度の基本原則や役割、そして課題を理解することを目的とする。刑法では罪と罰、刑事裁判を扱い、民法では不法行為・契約・家族法を取り上げる。憲法では役割、統治構造、人権保障について学び、さらに「働くこと」をめぐる法律など社会問題とも関連づける。日常生活と法律とのつながりを理解し、法的思考力を養う入門科目となっている。",
+    "goals": [
+      "憲法・民法・刑法の基礎的な仕組みを理解する",
+      "現代社会における法律の役割を説明できるようになる",
+      "法律制度の抱える課題を批判的に検討できるようになる",
+      "自分の生活と法律の関わりを理解する",
+      "ニュースや社会問題を法的視点から読む力を養う"
+    ],
+    "textbook": "松井茂記・松宮孝明・曽野裕夫『はじめての法律学〜HとJの物語〜(第6版)』有斐閣，2020",
+    "prerequisites": "特になし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "軽め〜普通（週1〜3時間程度の予習・リアクションペーパー作成が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記試験（まとめテスト）＋リアクションペーパー",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LASM1AA1J14",
+  "course_name": "日本国憲法",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 4,
+  "instructor": "杉原 周治",
+  "category": "教養選択",
+  "subcategory": "現代社会・法学基礎",
+  "field": "憲法学",
+
+
+  "grading": {
+    "exam": 100,
+    "report": 0,
+    "attendance": 0,
+    "description": "評価方法は期末テスト100％。講義中の発言内容に応じて加点が行われることがある。試験は論述式で持ち込み不可。法的思考力・論理的思考力・文章力・問題解決能力が問われる。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、日本国憲法における重要判例を読み解くことで、憲法学の基礎的理解と法的思考力を身につけることを目的とする。特に人権に関する主要判例を中心に、幸福追求権、平等権、思想・良心の自由、信教の自由、政教分離、名誉・プライバシーなどの権利保障を扱う。また、報道の自由、職業選択の自由、生存権、適性手続といった実社会に関連する憲法領域も取り上げ、判例の読み方と法的議論の展開を学ぶ。判例を通して憲法の意義と適用を深く理解することを重視した講義構成となっている。",
+    "goals": [
+      "憲法重要判例を読み解くための読解力を身につける",
+      "人権保障に関する主要な憲法原理を理解する",
+      "法的思考力・論理的思考力を養う",
+      "憲法問題に対して自分の意見を構築し表現できるようになる",
+      "判例をもとに具体的な憲法問題を分析できるようになる"
+    ],
+    "textbook": "最新版の六法（例：池田真朗他編『法学六法25』信山社）。また、『よくわかる憲法（第2版）』（ミネルヴァ書房・2013）。",
+    "prerequisites": "特になし"
+  },
+
+
+  "difficulty_level": "中級",
+  "workload": "普通〜やや重め（週3〜5時間の判例読解が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記（論述式・期末テスト100％）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LAHS1DA1J14",
+  "course_name": "健康生活学",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "吉野 直人",
+  "category": "教養選択",
+  "subcategory": "健康科学・生物学基礎",
+  "field": "生命科学・健康科学",
+
+
+  "grading": {
+    "exam": 50,
+    "report": 50,
+    "attendance": 0,
+    "description": "定期試験としてのレポート50％、授業参加および学習態度50％で評価する。100点満点中60点以上で合格。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、微生物によって引き起こされる感染症と、それに対抗する宿主の免疫システムについて基礎から学ぶ。微生物の分類、ウイルス・細菌・真菌の特徴、パンデミック事例、性感染症、母子感染、抗生物質やワクチンの仕組み、免疫の働き、生体防御機構、感染症の歴史、関連する法律やバイオハザードまで幅広く扱う。高校生物未履修者にも配慮した内容で、系統的かつ実生活に関連づけながら健康科学の基礎理解を深める。",
+    "goals": [
+      "微生物とは何かを理解する",
+      "感染症の原因と仕組みを説明できる",
+      "免疫の基本的な働きを理解する",
+      "ワクチンや抗生物質の役割を理解する",
+      "感染症と社会的課題・法律との関係を理解する"
+    ],
+    "textbook": "特に指定なし",
+    "prerequisites": "特に指定なし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "軽め（予習・復習は必須ではないが、ニュースでの感染症関連情報への関心が推奨される）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "レポート（定期試験扱い）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LAHH1BA1J14",
+  "course_name": "心理学入門",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "河村 諒",
+  "category": "教養選択（人文科学）",
+  "subcategory": "心理学基礎",
+  "field": "心理学",
+
+
+  "grading": {
+    "exam": 50,
+    "report": 40,
+    "attendance": 10,
+    "description": "授業内試験50％、適宜課題40％、授業参加度10％で評価。心理学の領域理解と日常場面への応用的思考の両方が評価対象となる。遅刻・欠席は厳格に扱う。"
+  },
+
+
+  "syllabus": {
+    "overview": "心理学入門では、人や動物の行動・心理について科学的に研究する心理学の基礎領域を広く学ぶ。知覚・認知、記憶、学習、動機づけ、発達、パーソナリティ、社会・集団、対人関係、家族、健康、福祉、臨床など、多様な心理学分野の特徴を体系的に理解することを目指す。講義を中心に進めつつ、適宜ワークを取り入れ、体験的な学びを通して心理学的思考を身につける。公認心理師としての実務経験をもつ教員による実践的な観点も含まれる。",
+    "goals": [
+      "心理学の主要な領域の特徴を理解する",
+      "科学的思考に基づいて心の働きを説明できるようになる",
+      "授業内容を日常生活の出来事と関連づけて考えられる",
+      "心理学的視点を用いて行動や現象を捉える力を身につける",
+      "ワークや課題を通じて体験的に心理学を学ぶ姿勢を養う"
+    ],
+    "textbook": "指定なし（授業内で適宜紹介）",
+    "prerequisites": "特になし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "普通（週2〜4時間の予習・復習・課題が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "授業内試験＋課題",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LAHS1AA1J14",
+  "course_name": "生涯スポーツ論",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 3,
+  "instructor": "植田 真帆",
+  "category": "教養選択",
+  "subcategory": "スポーツ・健康科学",
+  "field": "スポーツ文化",
+
+
+  "grading": {
+    "exam": 0,
+    "report": 100,
+    "attendance": 0,
+    "description": "毎時間提出するミニレポート70％、修了レポート30％により評価。ミニレポートはS〜Dの5段階評価。授業参加姿勢も重視する。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、スポーツを文化として捉え、その発展過程や社会的背景を多様な視点から考察する。日本のスポーツ史に関わる人物の紹介から始まり、スポーツ文化の成り立ち・変遷・特徴を理解する。また、毎回のミニレポートと学生参加型の授業を通じて、「生涯にわたってスポーツに親しみ楽しむ」ために必要な社会構造や文化的背景について深い認識を身につけることを目指す。",
+    "goals": [
+      "生涯スポーツの基礎概念と社会的意義を理解する",
+      "スポーツ文化の発展過程を説明できるようにする",
+      "日本のスポーツ史を構成する人物・出来事を理解する",
+      "スポーツ文化を多角的な視点から考察する力を養う",
+      "レポート作成を通じて分析力と表現力を向上させる"
+    ],
+    "textbook": "指定なし（授業内資料を配布）",
+    "prerequisites": "受講要件なし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "普通（毎回のミニレポート提出が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "レポート（ミニレポート＋修了レポート）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LASM1CA1J14",
+  "course_name": "政治学入門",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "上村 直樹",
+  "category": "教養選択",
+  "subcategory": "現代社会・政治学",
+  "field": "政治学・国際政治学",
+
+
+  "grading": {
+    "exam": 100,
+    "report": 0,
+    "attendance": 0,
+    "description": "中間テスト40％、期末テスト60％で評価する。国際関係の歴史、思想・理論、現代の国際問題の理解、そしてそれらをもとに国際政治現象を自ら考察できる力が求められる。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、国際政治学の基礎として、国際関係の歴史、理論、現代の国際イシューを系統的に学ぶ。近代ヨーロッパの国際社会の誕生から、帝国主義、2つの世界大戦、冷戦、冷戦後の国際関係までを学び、その上でリアリズム・リベラリズム・相互依存・コンストラクティビズム・マルクス主義系理論といった主要理論を扱う。後半では、グローバル化、地域統合、国連、開発、環境、国際安全保障など現代世界の重要課題について理解を深め、最終的には国際社会における21世紀の課題を考察する。国際問題を自ら分析する力の育成を目指す。",
+    "goals": [
+      "国際関係の歴史を理解する",
+      "リアリズム・リベラリズムなど主要理論を説明できる",
+      "現代の国際関係の仕組みや主要イシューを理解する",
+      "国際問題に関するニュースを分析できる基礎力を身につける",
+      "国際関係の現象について自分の考察を展開できる"
+    ],
+    "textbook": "村田晃嗣ほか『国際政治学をつかむ＜新版＞』（有斐閣、2015年）",
+    "prerequisites": "なし"
+  },
+
+
+  "difficulty_level": "初級〜中級",
+  "workload": "普通（週2〜4時間の予習・復習が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "中間試験・期末試験（筆記）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LARH1BA1J14",
+  "course_name": "ヨーロッパの歴史と文化",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "伊藤 滋夫",
+  "category": "教養選択",
+  "subcategory": "地域研究（ヨーロッパ）",
+  "field": "歴史・文化研究",
+
+
+  "grading": {
+    "exam": 70,
+    "report": 0,
+    "attendance": 30,
+    "description": "期末試験70％、授業における学習態度10％、授業への貢献20％で評価する。授業内容への積極的参加が成績に反映される。"
+  },
+
+
+  "syllabus": {
+    "overview": "この講義では、高校世界史の復習を行いながら、ヨーロッパとアジア・アフリカ・アメリカとの関係を理解することを目的とする。特に下二桁が「89」の年に焦点を当て、1492年のアメリカ大陸到達、1588年スペイン無敵艦隊、1688年名誉革命、1789年フランス革命、1889年パリ万博など、ヨーロッパの転換点となった出来事を扱う。それぞれの歴史的背景や影響を考察し、ヨーロッパ近現代の大きな変動を体系的に理解する授業となっている。",
+    "goals": [
+      "高校世界史の基礎内容を復習し理解を深める",
+      "ヨーロッパ史の主要な転換点を学び説明できるようになる",
+      "ヨーロッパと他地域（アジア・アフリカ・アメリカ）の関係を理解する",
+      "歴史事象の背景や因果関係を分析する力を身につける",
+      "現代につながる歴史的変動の意義を考察できるようになる"
+    ],
+    "textbook": "小山哲ほか『大学で学ぶ西洋史（近現代）』ミネルヴァ書房",
+    "prerequisites": "高校世界史の復習が望ましい"
+  },
+
+
+  "difficulty_level": "初級〜中級",
+  "workload": "普通（週2〜4時間の復習が推奨される）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記試験（期末）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LARH1BA1J14",
+  "course_name": "ヨーロッパの歴史と文化",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "伊藤 滋夫",
+  "category": "教養選択",
+  "subcategory": "地域研究（ヨーロッパ）",
+  "field": "歴史・文化研究",
+
+
+  "grading": {
+    "exam": 70,
+    "report": 0,
+    "attendance": 30,
+    "description": "期末試験70％、授業への貢献20％、学習態度10％で総合評価する。ヨーロッパ史への理解と授業への主体的参加が求められる。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、世界史で重要な節目となった「末尾が89」の年（1492・1589・1688・1789・1889）を軸に、ヨーロッパの歴史的変動を総合的に学ぶ。コロンブスの航海、無敵艦隊、宗教戦争、名誉革命、産業革命、フランス革命、パックス・ブリタニカ、パリ万博、ドイツ帝国の成立などを取り上げ、ヨーロッパとアジア・アフリカ・アメリカなど世界との関係性も含めて理解を深める。高校世界史の復習から高度な歴史的・文化的視野を身につけることを目的とする。",
+    "goals": [
+      "高校世界史の基本事項を復習し直す",
+      "ヨーロッパの主要な歴史的転換点を理解する",
+      "ヨーロッパと世界地域（アジア・アフリカ・アメリカ）の関係を把握する",
+      "歴史的事象を文化・政治・社会の観点から考察する",
+      "現代につながる歴史的背景を理解する"
+    ],
+    "textbook": "小山哲ほか（編）『大学で学ぶ西洋史（近現代）』ミネルヴァ書房",
+    "prerequisites": "特になし（高校世界史の復習が望ましい）"
+  },
+
+
+  "difficulty_level": "初級〜中級",
+  "workload": "普通（週2〜4時間の復習が望ましい）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記（期末試験）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+{
+  "course_id": "LAHH1CA1J14",
+  "course_name": "文学入門",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "榎本 洋",
+  "category": "教養選択",
+  "subcategory": "人文科学",
+  "field": "文学",
+
+  "grading": {
+    "exam": 80,
+    "report": 80,
+    "attendance": 20,
+    "description": "定期試験またはレポート80%、授業参加態度20%。試験かレポートかは受講態度を見て教員が決定する。"
+  },
+
+  "syllabus": {
+    "overview": "アーサー・コナン・ドイル『バスカヴィル家の犬』を英語原文で読み、その文学的価値だけでなく、19世紀末イギリス社会の背景（帝国主義、人種、科学捜査、階級問題など）を多角的に考察する授業である。重要箇所を中心に原文・訳文を比較しながら読み進め、文学作品を通して近代ヨーロッパの社会的文脈への理解を深めることを目的とする。また、読解を通じて英語への抵抗感を減らし、他の英文作品への興味を広げることも狙いとしている。",
+    "goals": [
+      "英文で文学作品を読み切る力を身につける",
+      "19世紀イギリスの社会・文化・歴史的背景を理解する",
+      "物語に潜むテーマ（帝国主義、人種、科学、階級など）を考察する",
+      "原文と訳文を比較し、言語的特徴や表現を理解する",
+      "英語読解への苦手意識を減らす"
+    ],
+    "textbook": "Arthur Conan Doyle, *The Hound of the Baskervilles* (Oxford World's Classics)",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "中級",
+  "workload": "普通（週2〜3時間程度の予習・復習が必要）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "試験またはレポート",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LARH1CA1J14",
+  "course_name": "北アメリカの歴史と文化",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 4,
+  "instructor": "久田 由佳子",
+  "category": "教養選択",
+  "subcategory": "諸地域研究",
+  "field": "地域研究（北アメリカ）",
+
+  "grading": {
+    "exam": 0,
+    "report": 40,
+    "attendance": 60,
+    "description": "授業参加度（授業後の課題・質問・感想等）60％、最終課題40％。授業の1/3以上欠席すると最終課題提出資格を失う。"
+  },
+
+  "syllabus": {
+    "overview": "本授業では、アメリカ合衆国南北戦争を中心的なテーマとして取り上げ、その歴史的背景や政治・経済の特徴、人種問題、公民権運動など、現在のアメリカ社会に影響を及ぼす多面的な要素について学ぶ。南北戦争に至るまでの経緯、戦後の南部社会の変容、人種差別や記憶政治などを扱い、アメリカの歴史と文化をより深く理解できるようにする。講義形式を基本とし、映像資料も適宜使用する。",
+    "goals": [
+      "南北戦争の歴史的背景とその影響を理解する",
+      "アメリカの政治・経済・社会構造の特徴を把握する",
+      "人種問題や公民権運動の歴史的経緯を学ぶ",
+      "歴史的出来事が現代アメリカ社会へ与えている影響を理解する",
+      "歴史資料や参考文献を用いて自ら調べる力を身につける"
+    ],
+    "textbook": "特に使用しない",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（毎回の復習と課題対応：週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "最終課題（レポート）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LAHN1AA1J14",
+  "course_name": "教養のための科学",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 4,
+  "instructor": "園部 利彦",
+  "category": "教養選択",
+  "subcategory": "自然科学",
+  "field": "自然科学",
+
+  "grading": {
+    "exam": 60,
+    "report": 20,
+    "attendance": 20,
+    "description": "定期試験60％、レポート20％、授業参加態度20％で評価する。"
+  },
+
+  "syllabus": {
+    "overview": "本授業では、私たちの日常生活を支えるさまざまな科学と技術に興味と関心をもち、その原理・応用・歴史を学ぶことで、幅広い科学的視点を養うことを目指す。感染症と医薬、元素や焼き物・刀剣、航空機や自動車といった具体的な題材に加え、通信技術、最先端分野の科学、資源・エネルギー、宇宙開発、国際支援、SDGsなどを取り上げ、科学・技術と社会とのつながりを多角的に理解するための教養的な科学入門である。",
+    "goals": [
+      "日常生活を支える科学と技術に興味・関心をもつ",
+      "科学・技術の原理や応用、歴史について基礎的な理解を得る",
+      "科学・技術と社会との関係について考える視点を身につける",
+      "配布資料や参考文献を用いて自ら調べ、学習を深める力を養う",
+      "感染症、資源・エネルギー、SDGsなど現代的な課題を科学的に考察する"
+    ],
+    "textbook": "特になし（各回の授業内容に応じて資料・参考文献を紹介）",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（授業資料の印刷・確認および参考文献を使った自学自習：週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "定期試験＋レポート",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LASM1HA1J14",
+  "course_name": "現代社会の諸問題",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 4,
+  "instructor": "平 春来里",
+  "category": "教養選択",
+  "subcategory": "現代社会",
+  "field": "社会学・環境社会学",
+
+  "grading": {
+    "exam": 70,
+    "report": 30,
+    "attendance": 0,
+    "description": "授業期間中のミニレポート30%、期末試験70%。授業終了後に毎回コメントペーパーを提出する必要がある。"
+  },
+
+  "syllabus": {
+    "overview": "この授業では、近代化とともに顕在化してきた環境問題を現代社会の重要課題として捉え、その背後にある社会構造やリスク社会論などを用いて多角的に分析する。具体的な事例（公害問題、水俣病、新幹線公害、原発事故、エネルギー転換など）を取り上げ、環境と社会が相互に影響し合いながら問題が形成される過程を理解することを目的とする。環境社会学・社会学の概念を往復しながら、現代の環境問題を自分の言葉で論じる力を養う。",
+    "goals": [
+      "環境問題をグローバル・ローカル双方の視点から理解する",
+      "環境社会学および社会学の主要概念を学ぶ",
+      "環境と社会の相互作用を説明できるようになる",
+      "現代社会における環境問題の複雑性を分析する力を身につける",
+      "扱った事例について自分の言葉で論じる能力を育てる"
+    ],
+    "textbook": "特になし（授業中に資料・論文・動画などを適宜配布）",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "中級",
+  "workload": "普通（毎回のニュース調査・配布資料の読解：週2〜3時間）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "筆記試験＋ミニレポート",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LAHN1CA1J14",
+  "course_name": "地球の科学",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 4,
+  "instructor": "吉岡 博貴、 小木曽 学",
+  "category": "教養選択",
+  "subcategory": "自然科学",
+  "field": "地球科学",
+
+  "grading": {
+    "exam": 70,
+    "report": 15,
+    "attendance": 15,
+    "description": "期末試験70%、レポート・提出物など15%、講義および野外観察への参加状況15%。"
+  },
+
+  "syllabus": {
+    "overview": "本講義は、地球全体を一つのシステムとして捉え、その構成要素である大気圏と生物圏の相互作用を通じて地球システム科学を理解することを目的とする。気候変動に代表される地球規模の課題を扱い、物質・エネルギー循環、大気大循環、生物多様性の起源、進化の歴史、光合成や呼吸に至るまで多様なテーマを学ぶ。野外観察を含む講義・演習形式を通して、動的地球観にもとづく科学的理解を深める。",
+    "goals": [
+      "大気圏と生物圏の構造と役割を理解する",
+      "地球システムを動的地球観にもとづいて科学的に解釈できるようになる",
+      "物質・エネルギー循環や大気大循環の仕組みを説明できる",
+      "生物多様性の成立過程と進化史を理解する",
+      "身近な環境を通して地球システム科学的視点を養う"
+    ],
+    "textbook": "特になし（資料を適宜配布）",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "中級",
+  "workload": "普通（予習：参考文献確認、復習：配布資料の理解。週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "筆記試験",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LASM2IA1J14",
+  "course_name": "高度情報社会の理解",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 4,
+  "instructor": "小栗 宏次、岩木 勇一郎、遠藤 守、南角 吉彦、佐藤 浩二、中村 裕哲",
+  "category": "教養選択",
+  "subcategory": "現代社会",
+  "field": "情報社会・メディア",
+
+  "grading": {
+    "exam": 25,
+    "report": 75,
+    "attendance": 0,
+    "description": "各単元ごとの課題が75%、期末課題が25%。高度情報社会に関する理解度を中心に評価する。"
+  },
+
+  "syllabus": {
+    "overview": "本講義では、急速に発展する高度情報社会の基礎を学び、現代のデジタル環境で起きている社会構造の変化について理解することを目的とする。前半では情報通信技術、コンピュータ、AI、メディアなどの基礎的理論を扱い、後半では電子出版、音声合成、IoT、モビリティ社会など最先端事例を学ぶ。現場で活躍する外部講師を招いた講義も含まれ、今後の社会課題やキャリアに生かせる知識の獲得を目指す。",
+    "goals": [
+      "高度情報社会の構造と特徴を理解する",
+      "情報通信技術が社会に与える影響を説明できる",
+      "AI、IoT、電子出版など現代的テーマの基礎知識を習得する",
+      "フェイク情報・情報セキュリティなどのリスクについて理解する",
+      "実社会の事例を通して近未来の情報社会を考察できるようになる"
+    ],
+    "textbook": "特になし（講義中に必要な資料を配布）",
+    "prerequisites": "なし（情報社会に興味があれば受講可能）"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（各回の資料確認＋単元課題：週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "期末課題（レポート）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LASM1EA1J14",
+  "course_name": "社会福祉入門",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 4,
+  "instructor": "髙栁 瑞穂、森 美親",
+  "category": "教養選択",
+  "subcategory": "現代社会",
+  "field": "社会福祉",
+
+  "grading": {
+    "exam": 0,
+    "report": 40,
+    "attendance": 60,
+    "description": "授業貢献度（ミニコメントペーパーやミニテストを含む）60％、最終課題40％。到達目標の達成度を基準として評価される。"
+  },
+
+  "syllabus": {
+    "overview": "本講義では、社会福祉を理解するために必要な基本概念、理念、歴史、制度、実践、国際動向など多面的な観点から社会福祉を学ぶ。社会福祉の科学的理解を深め、単なる『かわいそうな人を助ける』という一面的なイメージから脱却し、現代社会における福祉の重要性と実践を考察する力を養う。救貧制度やソーシャルワークの発展、主要福祉分野（児童・障害・高齢者）など、広い領域を基礎から理解する入門講義である。",
+    "goals": [
+      "社会福祉の主要な概念や理念を理解し説明できる",
+      "日本および欧米の社会福祉の歴史的変遷を理解する",
+      "社会福祉制度と実践の基本事項を学ぶ",
+      "社会福祉分野（児童、障害者、高齢者等）について理解する",
+      "社会福祉に関する事象を多角的な視点から考察できるようになる"
+    ],
+    "textbook": "芝野松次郎・新川泰弘・山縣文治編著（2021）『社会福祉入門』ミネルヴァ書房",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（ミニコメントペーパー・ミニテスト・復習：週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "最終課題（レポート）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LARH1EA1J14",
+  "course_name": "アフリカの歴史と文化",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "白谷 望、亀井 伸孝",
+  "category": "教養選択",
+  "subcategory": "諸地域研究",
+  "field": "地域研究（アフリカ）",
+
+  "grading": {
+    "exam": 50,
+    "report": 0,
+    "attendance": 50,
+    "description": "授業参加態度20％、提出課題30％、各担当者による最終試験またはレポート50％で評価する。"
+  },
+
+  "syllabus": {
+    "overview": "本講義はアフリカ地域研究の入門として、アフリカ全域について多面的な基礎知識を身につけることを目的とする。固有の生態環境のもとで形成されてきたアフリカ諸社会の歴史と文化を学ぶとともに、ヨーロッパによる植民地支配、独立後の国家形成、人口増加と経済成長など現代の動向も扱う。前半はサブサハラアフリカ、後半は北アフリカに分け、地域特性や対外関係をグローバルな視点から理解するための導入口となる。",
+    "goals": [
+      "アフリカ地域研究の導入としてアフリカ全体の基礎知識を身につける",
+      "北アフリカとサブサハラアフリカそれぞれの地域特性を理解する",
+      "アフリカと域外世界（ヨーロッパなど）との歴史的関係を学ぶ",
+      "現代のアフリカ社会の諸相をグローバルな視点から考察する",
+      "アフリカに関する最新の出来事に関心を持ち、自ら情報収集する姿勢を養う"
+    ],
+    "textbook": "教科書は指定せず、各回で教材を配布する。",
+    "prerequisites": "予備知識は問わないが、アフリカ地域への関心が望ましい。"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（授業資料の読解とニュース等の確認：週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "最終試験またはレポート（担当教員ごと）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LASM1GA1J14",
+  "course_name": "社会学入門",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 4,
+  "instructor": "長澤 壮平",
+  "category": "教養選択",
+  "subcategory": "現代社会",
+  "field": "社会学",
+
+  "grading": {
+    "exam": 0,
+    "report": 30,
+    "attendance": 70,
+    "description": "コメントペーパー70%、最終レポート30%。講義内容の理解度と、それに基づく自分自身の思考の主体性・妥当性を総合的に評価する。"
+  },
+
+  "syllabus": {
+    "overview": "本講義では、社会学の基本的概念や視点を学び、社会学的な考え方を通して社会や生活、人生をより自由かつ公正に理解する力を身につける。人間は社会との関わりの中で生きており、その関係性や社会がもつ力について批判的に見つめ直し、よりよい社会の可能性を受講者とともに探究する。家族・学校・労働・文化・不平等・近代など、幅広いテーマを扱いながら社会の構造と意味を考察する入門科目である。",
+    "goals": [
+      "社会学の基本概念と理論を理解する",
+      "社会学的なものの見方・思考方法を身につける",
+      "社会の構造や力の働きを批判的に分析できるようになる",
+      "日常生活を社会学的視点から解釈する力を養う",
+      "よりよい社会の可能性について考え、自分の意見として表現できるようになる"
+    ],
+    "textbook": "特になし（関連文献を講義内で紹介）",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "中級",
+  "workload": "普通（毎回のコメントペーパー・復習：週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "最終レポート",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LARA1AA1J14",
+  "course_name": "フィールドで学ぶ社会",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 3,
+  "instructor": "牛島 佳代",
+  "category": "教養選択",
+  "subcategory": "地域（愛知・日本）",
+  "field": "社会調査・フィールドワーク",
+
+  "grading": {
+    "exam": 0,
+    "report": 70,
+    "attendance": 30,
+    "description": "毎回の課題30％、最終フィールドレポート70％。量的・質的調査の理解度とフィールドでの応用力を総合的に評価する。"
+  },
+
+  "syllabus": {
+    "overview": "本講義では、社会調査の基礎から応用までを学び、現代社会の諸問題にフィールドワークを通じて迫る力を養う。質問紙調査（量的調査）、インタビュー・参与観察（質的調査）などに基づいて得られるデータの読み解き方を学び、フェイクニュースを見抜くデータリテラシーの観点や社会調査の倫理にも触れる。最終的には各自が独自のフィールドレポートを作成し、地域社会の課題について実証的に分析する。",
+    "goals": [
+      "社会調査の目的・意義・歴史を理解する",
+      "量的調査および質的調査の理論と方法を習得する",
+      "データリテラシーの基本原則を理解し、調査結果を正確に読み解く力を身につける",
+      "フィールドワークに基づく分析力を養い、現代社会の課題を多角的に考察できるようになる",
+      "得られたデータをもとに個人・地域・社会の動態を科学的に理解する"
+    ],
+    "textbook": "大谷伸介ほか編著『最新・社会調査へのアプローチ』（2023年、ミネルヴァ書房）",
+    "prerequisites": "特になし（社会学的好奇心が望ましい）"
+  },
+
+  "difficulty_level": "中級",
+  "workload": "重め（毎週の課題＋フィールドワーク：週3〜5時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "最終フィールドレポート",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LARA1CA1J14",
+  "course_name": "愛知の産業",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "クラーマー スベン",
+  "category": "教養選択",
+  "subcategory": "地域（愛知・日本）",
+  "field": "地域経済・産業史",
+
+  "grading": {
+    "exam": 70,
+    "report": 0,
+    "attendance": 30,
+    "description": "定期試験70%、授業態度30%。愛知県の諸産業の実態と歴史的背景を理解し、自分の言葉で説明できるかを基準に評価する。"
+  },
+
+  "syllabus": {
+    "overview": "本講義では、幕末維新期から現代に至るまでの愛知県における産業の発展を歴史的・地理的文脈から学ぶ。産業革命、戦時経済、高度経済成長、バブル崩壊、さらには「失われた20年」まで、愛知の産業構造がどのように形成されてきたのかを、多様なデータや史料をもとに分析する。また、地域住民としての視点を重視し、産業の実態や課題を理解し、自ら解決策を構想できる力の育成を目指す。",
+    "goals": [
+      "愛知県の産業の歴史的変遷について基礎的知識を身につける",
+      "近代から現代に至る日本経済の中での愛知の位置づけを理解する",
+      "統計・史料などのデータを用いた客観的分析の方法を学ぶ",
+      "地域産業が抱える課題について自ら考察できるようになる",
+      "地域の歴史・地理的背景を踏まえた経済理解を深める"
+    ],
+    "textbook": "特になし（愛知県史 通史編6〜9、および授業で紹介される文献を参照）",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "中級",
+  "workload": "普通（配布資料の読解と復習：週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "筆記試験",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LAHH1BA1J14",
+  "course_name": "心理学入門",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 3,
+  "instructor": "木村 美奈子",
+  "category": "教養選択",
+  "subcategory": "人文科学",
+  "field": "心理学",
+
+  "grading": {
+    "exam": 70,
+    "report": 70,
+    "attendance": 30,
+    "description": "毎回授業の最後に書くショートレポート30％と学期末レポート70％により総合評価を行う。オリジナリティの高いレポートが求められる。"
+  },
+
+  "syllabus": {
+    "overview": "本講義は、私たちの日常的な行動や感情を心理学的観点から捉え直すことで、人間の本質に迫る理解を深めることを目的とする。知覚・錯視・記憶・推論・学習・感情・社会心理・恋愛・発達・性格・脳と心など、多様なテーマを取り上げ、身近な事例や簡単な心理学実験・質問紙を通して、自分自身の心の働きについても理解を深める。心理学の基礎的な考え方と研究方法に触れながら、「こころの科学」としての心理学への入門となる授業である。",
+    "goals": [
+      "日常の行動や感情を心理学的観点から説明できるようになる",
+      "知覚・記憶・学習・感情・社会心理・発達など心理学の基礎領域を理解する",
+      "心理学実験や質問紙調査を通じて自分自身の心の特徴を振り返る",
+      "心理学の基本的な研究方法や考え方に触れ、科学的に心を捉える視点を身につける",
+      "身近な対人関係や自己理解に心理学の知見を応用できるようになる"
+    ],
+    "textbook": "教科書は用いず、適宜資料を配付する。",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（授業内容の復習とレポート準備：週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "レポート（ショートレポート＋期末レポート）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LAHN2EA1J14",
+  "course_name": "生命の科学",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 4,
+  "instructor": "三浦 康平",
+  "category": "教養選択",
+  "subcategory": "自然科学",
+  "field": "生命科学",
+
+  "grading": {
+    "exam": 60,
+    "report": 30,
+    "attendance": 10,
+    "description": "期末試験60%、課題30%、授業参加（グループワーク含む）10%。不正出席が確認された場合は成績に反映される。"
+  },
+
+  "syllabus": {
+    "overview": "本講義では、生命科学の専門知識ではなく、社会人として身につけておくべき一般常識レベルの生命科学の基礎を学ぶ。遺伝、がん、免疫、アレルギー、再生医療、栄養、運動など、日常生活や社会問題と関係の深い身近なテーマを取り上げ、新聞やニュースで見聞きする内容を科学的に理解する力を養う。生命現象を理解するための考え方を学び、健康・医療・社会問題の背景を読み解く基礎力を身につけることを目的とする。",
+    "goals": [
+      "生命科学の基本概念を一般常識レベルで理解する",
+      "遺伝、がん、免疫など身近な生命科学の話題について科学的に説明できるようになる",
+      "日常生活や社会問題と生命科学の関連を理解する",
+      "科学的な視点で新聞・ニュースの内容を読み解く力を身につける",
+      "グループワークや課題を通して主体的に学ぶ姿勢を育てる"
+    ],
+    "textbook": "『これだけはおさえたい生命科学 身近な話題から学ぶ』武村政春ほか（実教出版）",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（課題の実施・復習を含め週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "筆記試験",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": true
+  }
+}
+
+{
+  "course_id": "LASP1AA1J12",
+  "course_name": "地域社会とキャリア構想",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 4,
+  "instructor": "金 碩浩、野田 博也、柴田 博之",
+  "category": "教養選択",
+  "subcategory": "キャリア・プランニング",
+  "field": "キャリア教育",
+
+  "grading": {
+    "exam": 0,
+    "report": 100,
+    "attendance": 0,
+    "description": "前半レポート50点、後半レポート50点、小レポートが課される場合は評価に加算される。"
+  },
+
+  "syllabus": {
+    "overview": "本講義では、個人のキャリア形成を地域社会・社会構造・教育制度との関連から理解し、ライフキャリアとワークキャリアを主体的に構想できる知識と視点を養う。現代日本社会で生活基盤を支える仕組みとしての貧困、労働、社会保障などの課題を学ぶとともに、学校教育におけるキャリア教育の位置づけとその国際比較を扱う。キャリア形成の本質を社会的文脈から理解するための入門科目である。",
+    "goals": [
+      "自身がキャリアの主体であるという認識を持つ",
+      "キャリア構想を具体化するための仕組みや方法を理解する",
+      "キャリア教育が成立してきた経緯・位置づけを社会的視点から理解する",
+      "地域社会を理解し、キャリアと生活基盤の関係を説明できる",
+      "キャリアに関する社会問題について多角的視点から考察できるようになる"
+    ],
+    "textbook": "指定教科書なし（授業中に必要資料を配布）。",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（授業ごとの課題・調査：週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "レポート（前半・後半・小レポート）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+{
+  "course_id": "LASP1CA1J12",
+  "course_name": "日本語表現法",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "鈴木 裕子",
+  "category": "教養選択",
+  "subcategory": "キャリア・プランニング",
+  "field": "日本語表現・文章技術",
+
+  "grading": {
+    "exam": 0,
+    "report": 20,
+    "attendance": 10,
+    "description": "課題40%、レポート20%、発表・相互評価30%、参加態度10%。授業時活動への積極的参加と、期限を守った課題提出が重視される。"
+  },
+
+  "syllabus": {
+    "overview": "本講義では、アカデミックおよびビジネス場面で必要とされる「わかりやすい情報発信」の基礎を身につける。表現の美しさよりも『伝わりやすさ』を重視し、メール・レポート・スライドなど状況に応じた適切な文章形式を学ぶ。互いの文章を読み合いコメントする演習やグループワークを通して、読み手を意識した文章表現力を養い、将来のキャリア形成に直結する実践的なコミュニケーション能力を身につけることを目的とする。",
+    "goals": [
+      "読み手を意識した、わかりやすい情報発信ができるようになる",
+      "メールやレポートなど状況に応じた適切な文体と形式を使い分けられる",
+      "事実文と意見文の違いを理解し、レポートを適切に構成できる",
+      "引用・資料の扱いなどアカデミックライティングの基礎を理解する",
+      "グループワークを通じて他者の文章を批判的に読み、改善点を指摘できる"
+    ],
+    "textbook": "『新装版 「分かりやすい表現」の技術』藤沢晃治（文響社、2020）",
+    "prerequisites": "留学生はJLPT N1程度の日本語力が望ましい"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（課題作成・文章の書き直し：週2〜3時間程度）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "課題・レポート・発表",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": true
+  }
+}
+
+{
+  "course_id": "LAHS1CA1J14",
+  "course_name": "健康とこころの科学",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 4,
+  "instructor": "河村 諒",
+  "category": "教養選択",
+  "subcategory": "スポーツ・健康科学",
+  "field": "健康心理学・メンタルヘルス",
+
+  "grading": {
+    "exam": 50,
+    "report": 40,
+    "attendance": 10,
+    "description": "授業内試験50％、適宜課される課題40％、授業への参加度10％。メンタルヘルスについて日常生活の文脈で考察できるかが重要。"
+  },
+
+  "syllabus": {
+    "overview": "本講義では、現代社会で問題となっているストレスやメンタルヘルス不調について、健康心理学の観点から基礎的な知識と対処技法を学ぶ。ストレスの理解、精神疾患、コーピング、発達と心理的問題、心理支援法、認知行動療法、アサーション、職場におけるストレスマネジメントなど、日常生活や将来の対人支援に役立つ実践的内容を扱う。公認心理師としての活動経験をもつ教員が、講義とワークを交えて実践的な学びを提供する。",
+    "goals": [
+      "ストレスへの理解と適切な対処方法を身につける",
+      "メンタルヘルス不調の早期発見と支援の基本について理解する",
+      "ライフサイクルと心理的問題の関連性を学ぶ",
+      "認知行動療法や問題解決療法など代表的な心理的支援技法を理解する",
+      "日常生活でストレスマネジメントを実践できる力を身につける"
+    ],
+    "textbook": "特になし（授業内で適宜紹介）",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（事前資料の確認、復習、課題対応：週2〜3時間）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "授業内試験・課題提出",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": true
+  }
+}
+
+{
+  "course_id": "LAHS1CA1J14",
+  "course_name": "健康とこころの科学",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 4,
+  "instructor": "河村 諒",
+  "category": "教養選択",
+  "subcategory": "スポーツ・健康科学",
+  "field": "健康心理学・メンタルヘルス",
+
+  "grading": {
+    "exam": 50,
+    "report": 40,
+    "attendance": 10,
+    "description": "授業内試験50％、適宜課される課題40％、授業への参加度10％。メンタルヘルスについて日常生活の文脈で考察できるかが重要。"
+  },
+
+  "syllabus": {
+    "overview": "本講義では、現代社会で問題となっているストレスやメンタルヘルス不調について、健康心理学の観点から基礎的な知識と対処技法を学ぶ。ストレスの理解、精神疾患、コーピング、発達と心理的問題、心理支援法、認知行動療法、アサーション、職場におけるストレスマネジメントなど、日常生活や将来の対人支援に役立つ実践的内容を扱う。公認心理師としての活動経験をもつ教員が、講義とワークを交えて実践的な学びを提供する。",
+    "goals": [
+      "ストレスへの理解と適切な対処方法を身につける",
+      "メンタルヘルス不調の早期発見と支援の基本について理解する",
+      "ライフサイクルと心理的問題の関連性を学ぶ",
+      "認知行動療法や問題解決療法など代表的な心理的支援技法を理解する",
+      "日常生活でストレスマネジメントを実践できる力を身につける"
+    ],
+    "textbook": "特になし（授業内で適宜紹介）",
+    "prerequisites": "特になし"
+  },
+
+  "difficulty_level": "初級",
+  "workload": "普通（事前資料の確認、復習、課題対応：週2〜3時間）",
+  "pass_rate": null,
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+  "additional_info": {
+    "exam_type": "授業内試験・課題提出",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": true
+  }
+}
+
+{
+  "course_id": "LASM1FA1J14",
+  "course_name": "比較文化社会",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "イスマトフ アジズ",
+  "category": "教養選択",
+  "subcategory": "現代社会・文化理解",
+  "field": "社会・文化比較",
+
+
+  "grading": {
+    "exam": 0,
+    "report": 60,
+    "attendance": 40,
+    "description": "グループ内発表内容（20％）、発表への貢献度（20％）、2回のグループ発表（40％）、授業への参加状況（20％）を総合して評価する。発表準備やディスカッションへの積極的参加が重要となる。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、日本人学生と留学生が混合グループを組み、各国の社会・文化を比較しながら相違点や共通点を探る活動を通して、異文化理解とコミュニケーション力を養う。プレゼンテーション、ディスカッション、フィールドワーク、ポスター発表、パンフレット作成などのアクティブラーニングによって、自国文化を整理し他者にわかりやすく伝える力を身につける。ICTを活用した留学生との交流も含まれ、多文化共生社会への理解を深める内容となっている。",
+    "goals": [
+      "自国の社会・文化を整理し説明できる能力を身につける",
+      "各国の文化や社会的特徴を比較し理解する",
+      "留学生との協働を通じて異文化コミュニケーション力を養う",
+      "プレゼンテーションやポスター作成などの表現力を向上させる",
+      "フィールドワークを通して実体験に基づく文化理解を深める"
+    ],
+    "textbook": "指定教科書なし",
+    "prerequisites": "受講要件なし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "普通（週2〜4時間程度の発表・準備作業が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "なし（発表・制作物中心）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": true
+  }
+}
+
+
+
+
+{
+  "course_id": "LASM1BA1J14",
+  "course_name": "法学入門",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 3,
+  "instructor": "竹内 徹",
+  "category": "教養選択",
+  "subcategory": "現代社会・法律",
+  "field": "法学",
+
+
+  "grading": {
+    "exam": 70,
+    "report": 30,
+    "attendance": 0,
+    "description": "まとめテスト70％、毎回のリアクションペーパー30％を総合して評価する。法律制度の理解と、制度の課題を批判的に検討する姿勢が重視される。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、私たちの暮らしに身近な法律として、憲法・民法・刑法の基礎を学ぶ。現代社会のあらゆる場面には法律が関係しており、法制度の基本原則や役割、そして課題を理解することを目的とする。刑法では罪と罰、刑事裁判を扱い、民法では不法行為・契約・家族法を取り上げる。憲法では役割、統治構造、人権保障について学び、さらに「働くこと」をめぐる法律など社会問題とも関連づける。日常生活と法律とのつながりを理解し、法的思考力を養う入門科目となっている。",
+    "goals": [
+      "憲法・民法・刑法の基礎的な仕組みを理解する",
+      "現代社会における法律の役割を説明できるようになる",
+      "法律制度の抱える課題を批判的に検討できるようになる",
+      "自分の生活と法律の関わりを理解する",
+      "ニュースや社会問題を法的視点から読む力を養う"
+    ],
+    "textbook": "松井茂記・松宮孝明・曽野裕夫『はじめての法律学〜HとJの物語〜(第6版)』有斐閣，2020",
+    "prerequisites": "特になし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "軽め〜普通（週1〜3時間程度の予習・リアクションペーパー作成が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記試験（まとめテスト）＋リアクションペーパー",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LASM1AA1J14",
+  "course_name": "日本国憲法",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 4,
+  "instructor": "杉原 周治",
+  "category": "教養選択",
+  "subcategory": "現代社会・法学基礎",
+  "field": "憲法学",
+
+
+  "grading": {
+    "exam": 100,
+    "report": 0,
+    "attendance": 0,
+    "description": "評価方法は期末テスト100％。講義中の発言内容に応じて加点が行われることがある。試験は論述式で持ち込み不可。法的思考力・論理的思考力・文章力・問題解決能力が問われる。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、日本国憲法における重要判例を読み解くことで、憲法学の基礎的理解と法的思考力を身につけることを目的とする。特に人権に関する主要判例を中心に、幸福追求権、平等権、思想・良心の自由、信教の自由、政教分離、名誉・プライバシーなどの権利保障を扱う。また、報道の自由、職業選択の自由、生存権、適性手続といった実社会に関連する憲法領域も取り上げ、判例の読み方と法的議論の展開を学ぶ。判例を通して憲法の意義と適用を深く理解することを重視した講義構成となっている。",
+    "goals": [
+      "憲法重要判例を読み解くための読解力を身につける",
+      "人権保障に関する主要な憲法原理を理解する",
+      "法的思考力・論理的思考力を養う",
+      "憲法問題に対して自分の意見を構築し表現できるようになる",
+      "判例をもとに具体的な憲法問題を分析できるようになる"
+    ],
+    "textbook": "最新版の六法（例：池田真朗他編『法学六法25』信山社）。また、『よくわかる憲法（第2版）』（ミネルヴァ書房・2013）。",
+    "prerequisites": "特になし"
+  },
+
+
+  "difficulty_level": "中級",
+  "workload": "普通〜やや重め（週3〜5時間の判例読解が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記（論述式・期末テスト100％）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LAHS1DA1J14",
+  "course_name": "健康生活学",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "吉野 直人",
+  "category": "教養選択",
+  "subcategory": "健康科学・生物学基礎",
+  "field": "生命科学・健康科学",
+
+
+  "grading": {
+    "exam": 50,
+    "report": 50,
+    "attendance": 0,
+    "description": "定期試験としてのレポート50％、授業参加および学習態度50％で評価する。100点満点中60点以上で合格。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、微生物によって引き起こされる感染症と、それに対抗する宿主の免疫システムについて基礎から学ぶ。微生物の分類、ウイルス・細菌・真菌の特徴、パンデミック事例、性感染症、母子感染、抗生物質やワクチンの仕組み、免疫の働き、生体防御機構、感染症の歴史、関連する法律やバイオハザードまで幅広く扱う。高校生物未履修者にも配慮した内容で、系統的かつ実生活に関連づけながら健康科学の基礎理解を深める。",
+    "goals": [
+      "微生物とは何かを理解する",
+      "感染症の原因と仕組みを説明できる",
+      "免疫の基本的な働きを理解する",
+      "ワクチンや抗生物質の役割を理解する",
+      "感染症と社会的課題・法律との関係を理解する"
+    ],
+    "textbook": "特に指定なし",
+    "prerequisites": "特に指定なし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "軽め（予習・復習は必須ではないが、ニュースでの感染症関連情報への関心が推奨される）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "レポート（定期試験扱い）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LAHH1BA1J14",
+  "course_name": "心理学入門",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "河村 諒",
+  "category": "教養選択（人文科学）",
+  "subcategory": "心理学基礎",
+  "field": "心理学",
+
+
+  "grading": {
+    "exam": 50,
+    "report": 40,
+    "attendance": 10,
+    "description": "授業内試験50％、適宜課題40％、授業参加度10％で評価。心理学の領域理解と日常場面への応用的思考の両方が評価対象となる。遅刻・欠席は厳格に扱う。"
+  },
+
+
+  "syllabus": {
+    "overview": "心理学入門では、人や動物の行動・心理について科学的に研究する心理学の基礎領域を広く学ぶ。知覚・認知、記憶、学習、動機づけ、発達、パーソナリティ、社会・集団、対人関係、家族、健康、福祉、臨床など、多様な心理学分野の特徴を体系的に理解することを目指す。講義を中心に進めつつ、適宜ワークを取り入れ、体験的な学びを通して心理学的思考を身につける。公認心理師としての実務経験をもつ教員による実践的な観点も含まれる。",
+    "goals": [
+      "心理学の主要な領域の特徴を理解する",
+      "科学的思考に基づいて心の働きを説明できるようになる",
+      "授業内容を日常生活の出来事と関連づけて考えられる",
+      "心理学的視点を用いて行動や現象を捉える力を身につける",
+      "ワークや課題を通じて体験的に心理学を学ぶ姿勢を養う"
+    ],
+    "textbook": "指定なし（授業内で適宜紹介）",
+    "prerequisites": "特になし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "普通（週2〜4時間の予習・復習・課題が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "授業内試験＋課題",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LAHS1AA1J14",
+  "course_name": "生涯スポーツ論",
+  "credits": 2,
+  "term": "前期",
+  "day": "金",
+  "period": 3,
+  "instructor": "植田 真帆",
+  "category": "教養選択",
+  "subcategory": "スポーツ・健康科学",
+  "field": "スポーツ文化",
+
+
+  "grading": {
+    "exam": 0,
+    "report": 100,
+    "attendance": 0,
+    "description": "毎時間提出するミニレポート70％、修了レポート30％により評価。ミニレポートはS〜Dの5段階評価。授業参加姿勢も重視する。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、スポーツを文化として捉え、その発展過程や社会的背景を多様な視点から考察する。日本のスポーツ史に関わる人物の紹介から始まり、スポーツ文化の成り立ち・変遷・特徴を理解する。また、毎回のミニレポートと学生参加型の授業を通じて、「生涯にわたってスポーツに親しみ楽しむ」ために必要な社会構造や文化的背景について深い認識を身につけることを目指す。",
+    "goals": [
+      "生涯スポーツの基礎概念と社会的意義を理解する",
+      "スポーツ文化の発展過程を説明できるようにする",
+      "日本のスポーツ史を構成する人物・出来事を理解する",
+      "スポーツ文化を多角的な視点から考察する力を養う",
+      "レポート作成を通じて分析力と表現力を向上させる"
+    ],
+    "textbook": "指定なし（授業内資料を配布）",
+    "prerequisites": "受講要件なし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "普通（毎回のミニレポート提出が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "レポート（ミニレポート＋修了レポート）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LASM1CA1J14",
+  "course_name": "政治学入門",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "上村 直樹",
+  "category": "教養選択",
+  "subcategory": "現代社会・政治学",
+  "field": "政治学・国際政治学",
+
+
+  "grading": {
+    "exam": 100,
+    "report": 0,
+    "attendance": 0,
+    "description": "中間テスト40％、期末テスト60％で評価する。国際関係の歴史、思想・理論、現代の国際問題の理解、そしてそれらをもとに国際政治現象を自ら考察できる力が求められる。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、国際政治学の基礎として、国際関係の歴史、理論、現代の国際イシューを系統的に学ぶ。近代ヨーロッパの国際社会の誕生から、帝国主義、2つの世界大戦、冷戦、冷戦後の国際関係までを学び、その上でリアリズム・リベラリズム・相互依存・コンストラクティビズム・マルクス主義系理論といった主要理論を扱う。後半では、グローバル化、地域統合、国連、開発、環境、国際安全保障など現代世界の重要課題について理解を深め、最終的には国際社会における21世紀の課題を考察する。国際問題を自ら分析する力の育成を目指す。",
+    "goals": [
+      "国際関係の歴史を理解する",
+      "リアリズム・リベラリズムなど主要理論を説明できる",
+      "現代の国際関係の仕組みや主要イシューを理解する",
+      "国際問題に関するニュースを分析できる基礎力を身につける",
+      "国際関係の現象について自分の考察を展開できる"
+    ],
+    "textbook": "村田晃嗣ほか『国際政治学をつかむ＜新版＞』（有斐閣、2015年）",
+    "prerequisites": "なし"
+  },
+
+
+  "difficulty_level": "初級〜中級",
+  "workload": "普通（週2〜4時間の予習・復習が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "中間試験・期末試験（筆記）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LARH1BA1J14",
+  "course_name": "ヨーロッパの歴史と文化",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "伊藤 滋夫",
+  "category": "教養選択",
+  "subcategory": "地域研究（ヨーロッパ）",
+  "field": "歴史・文化研究",
+
+
+  "grading": {
+    "exam": 70,
+    "report": 0,
+    "attendance": 30,
+    "description": "期末試験70％、授業における学習態度10％、授業への貢献20％で評価する。授業内容への積極的参加が成績に反映される。"
+  },
+
+
+  "syllabus": {
+    "overview": "この講義では、高校世界史の復習を行いながら、ヨーロッパとアジア・アフリカ・アメリカとの関係を理解することを目的とする。特に下二桁が「89」の年に焦点を当て、1492年のアメリカ大陸到達、1588年スペイン無敵艦隊、1688年名誉革命、1789年フランス革命、1889年パリ万博など、ヨーロッパの転換点となった出来事を扱う。それぞれの歴史的背景や影響を考察し、ヨーロッパ近現代の大きな変動を体系的に理解する授業となっている。",
+    "goals": [
+      "高校世界史の基礎内容を復習し理解を深める",
+      "ヨーロッパ史の主要な転換点を学び説明できるようになる",
+      "ヨーロッパと他地域（アジア・アフリカ・アメリカ）の関係を理解する",
+      "歴史事象の背景や因果関係を分析する力を身につける",
+      "現代につながる歴史的変動の意義を考察できるようになる"
+    ],
+    "textbook": "小山哲ほか『大学で学ぶ西洋史（近現代）』ミネルヴァ書房",
+    "prerequisites": "高校世界史の復習が望ましい"
+  },
+
+
+  "difficulty_level": "初級〜中級",
+  "workload": "普通（週2〜4時間の復習が推奨される）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記試験（期末）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "LARH1BA1J14",
+  "course_name": "ヨーロッパの歴史と文化",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 3,
+  "instructor": "伊藤 滋夫",
+  "category": "教養選択",
+  "subcategory": "地域研究（ヨーロッパ）",
+  "field": "歴史・文化研究",
+
+
+  "grading": {
+    "exam": 70,
+    "report": 0,
+    "attendance": 30,
+    "description": "期末試験70％、授業への貢献20％、学習態度10％で総合評価する。ヨーロッパ史への理解と授業への主体的参加が求められる。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、世界史で重要な節目となった「末尾が89」の年（1492・1589・1688・1789・1889）を軸に、ヨーロッパの歴史的変動を総合的に学ぶ。コロンブスの航海、無敵艦隊、宗教戦争、名誉革命、産業革命、フランス革命、パックス・ブリタニカ、パリ万博、ドイツ帝国の成立などを取り上げ、ヨーロッパとアジア・アフリカ・アメリカなど世界との関係性も含めて理解を深める。高校世界史の復習から高度な歴史的・文化的視野を身につけることを目的とする。",
+    "goals": [
+      "高校世界史の基本事項を復習し直す",
+      "ヨーロッパの主要な歴史的転換点を理解する",
+      "ヨーロッパと世界地域（アジア・アフリカ・アメリカ）の関係を把握する",
+      "歴史的事象を文化・政治・社会の観点から考察する",
+      "現代につながる歴史的背景を理解する"
+    ],
+    "textbook": "小山哲ほか（編）『大学で学ぶ西洋史（近現代）』ミネルヴァ書房",
+    "prerequisites": "特になし（高校世界史の復習が望ましい）"
+  },
+
+
+  "difficulty_level": "初級〜中級",
+  "workload": "普通（週2〜4時間の復習が望ましい）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記（期末試験）",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+{
+  "course_id": "（記載なし）",
+  "course_name": "微分積分Ⅰ",
+  "credits": 2,
+  "term": "前期",
+  "day": "木",
+  "period": 3,
+  "instructor": "平尾 将剛",
+  "category": "専門必修",
+  "subcategory": "理系基礎（数学）",
+  "field": "（教養科目ではないため空欄）",
+
+
+  "grading": {
+    "exam": 80,
+    "report": 0,
+    "attendance": 20,
+    "description": "期末試験80％と宿題20％（計13回）で評価する。宿題の正答率自体は成績に加味しないが、学習理解のため重要とされる。学習の積み上げが試験成績に直結するため、試験を重視した評価となっている。"
+  },
+
+
+  "syllabus": {
+    "overview": "1変数関数に関する基礎理論と微分積分の方法・背景を学ぶ講義である。前半では実数の連続性、数列と関数の極限、連続関数の性質（最大値・最小値の定理、中間値の定理）を扱う。後半では微分法・積分法について、具体的な計算法だけでなく、その理論的背景も含めて学習する。計算力と数学的理解の双方を深めることを目標とする。",
+    "goals": [
+      "数列・関数の極限の意味を理解する",
+      "連続関数の性質を説明できる",
+      "微分法・積分法の計算法に習熟する",
+      "微分積分の理論的背景を理解する",
+      "実用的な応用問題に取り組めるようになる"
+    ],
+    "textbook": "茂木 勇・横手 一郎『基礎微分積分』裳華房",
+    "prerequisites": "関連科目：微分積分II"
+  },
+
+
+  "difficulty_level": "中級",
+  "workload": "普通（週4〜6時間程度の復習・宿題が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記試験（期末）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+
+
+
+{
+  "course_id": "（記載なし）",
+  "course_name": "コンピュータリテラシー",
+  "credits": 2,
+  "term": "前期",
+  "day": "水",
+  "period": [1, 2],
+  "instructor": "太田 淳、伊藤 正英、入部 百合絵、大橋 あすか、鈴木 康之",
+  "category": "専門必修",
+  "subcategory": "情報リテラシー・基礎技術",
+  "field": "（教養科目ではないため空欄）",
+
+
+  "grading": {
+    "exam": 40,
+    "report": 30,
+    "attendance": 30,
+    "description": "中間試験20％、期末試験20％、演習課題30％、授業への積極性・態度30％で評価する。Linux操作、ネットワーク利用、文書作成など情報処理の基本技術の習得を重視する。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では、Linux を中心としたコンピュータ操作の基礎を習得し、コンピュータおよびインターネットの仕組みを理解することを目的とする。Web利用、電子メール、VPN、ファイル操作などの基礎技法に加え、LaTeX を用いた理科系文書作成、HTML/CSS/JavaScript を用いた Web ページ制作、MATLAB・Mathematica の基本的な使い方も扱う。講義と演習を併用し、実践的な情報処理スキルの習得を重視した内容となっている。",
+    "goals": [
+      "Linux の基本操作を理解し、説明できる",
+      "コンピュータやインターネットの仕組みを理解する",
+      "Web・メール・VPN などの基本利用技術を習得する",
+      "LaTeX を用いた文書作成ができる",
+      "MATLAB・Mathematica を基礎的に利用できる"
+    ],
+    "textbook": "小畑建太ほか『専門教育用計算機システム利用の手引―2025年度版―』愛知県立大学情報科学部（配布資料）",
+    "prerequisites": "受講要件なし"
+  },
+
+
+  "difficulty_level": "初級〜中級",
+  "workload": "普通（週3〜5時間程度の復習・課題作業が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記（中間・期末）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "（記載なし）",
+  "course_name": "プログラミングⅠ",
+  "credits": 2,
+  "term": "前期",
+  "day": "月",
+  "period": 2,
+  "instructor": "大久保 弘崇",
+  "category": "専門必修",
+  "subcategory": "プログラミング基礎",
+  "field": "",
+
+
+  "grading": {
+    "exam": 70,
+    "report": 0,
+    "attendance": 30,
+    "description": "評価は期末試験約70％、小テスト約30％、および授業への積極性や学習態度（少量）により行われる。演習課題が多く実践重視の内容となっている。"
+  },
+
+
+  "syllabus": {
+    "overview": "Haskell 言語を用いてプログラミング入門を行い、コンピュータに計算を指示するとはどういうことかを理解することを目的とする。代数的データ型や関数定義を通して、曖昧さのない手順としてのプログラム記述方法を学ぶ。Haskell の特徴である関数型の考え方を活用し、型、再帰、パターンマッチ、高階関数などの概念を演習とともに習熟することで、プログラミングの基礎的なセンスを養う授業となっている。",
+    "goals": [
+      "コンピュータに計算を指示する手続きを理解する",
+      "Haskell言語の基本文法と概念（関数定義・型・再帰など）を理解する",
+      "代数的データ型によるデータ表現を習得する",
+      "高階関数・モジュールなどの応用的な構造を使いこなす",
+      "演習課題を通じて実践的なプログラミング力を身につける"
+    ],
+    "textbook": "Miran Lipovaca『すごいHaskellたのしく学ぼう！』オーム社",
+    "prerequisites": "コンピュータリテラシー等、基本的なPC操作ができること"
+  },
+
+
+  "difficulty_level": "中級",
+  "workload": "普通（週4〜6時間程度の予習・演習が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記試験（期末）＋小テスト",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "（記載なし）",
+  "course_name": "プロジェクトベースドラーニングⅠ",
+  "credits": 1,
+  "term": "前期",
+  "day": "金",
+  "period": 2,
+  "instructor": "大久保 弘崇、奥田 隆史、吉岡 博貴、入部 百合絵、神谷直希",
+  "category": "専門必修",
+  "subcategory": "アカデミックスキル・PBL",
+  "field": "",
+
+
+  "grading": {
+    "exam": 0,
+    "report": 80,
+    "attendance": 20,
+    "description": "実施報告書などの提出物80％、プロジェクトへの取り組み姿勢や貢献度20％を総合的に評価する。積極的に参加し、成果を適切にまとめて発表できたかが重視される。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では少人数のグループで協力しながら課題解決に取り組むPBL形式の学習を行う。学生は主体的学修を通して課題設定能力、協働力、情報倫理、理系文章作成、データ処理、プレゼンテーション技術など基礎的アカデミックスキルを身につける。5つのテーマに沿って課題を解決しながら、科学者・技術者としての倫理観や情報科学分野に必要な基礎的能力を体系的に習得する実践的な内容となっている。",
+    "goals": [
+      "主体的に課題を設定し解決に取り組む能力を身に付ける",
+      "グループで協働しながら作業する力を養う",
+      "理系の文章作成技術を理解し活用する",
+      "データ処理や表現技法の基礎を学ぶ",
+      "プレゼンテーション技術や情報倫理について理解を深める"
+    ],
+    "textbook": "必要資料は授業内で配布",
+    "prerequisites": "特になし"
+  },
+
+
+  "difficulty_level": "初級",
+  "workload": "普通（週2〜4時間程度の準備・レポート作成が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "なし（レポート・発表中心）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": true
+  }
+}
+
+
+{
+  "course_id": "（記載なし）",
+  "course_name": "情報社会の法と倫理",
+  "credits": 2,
+  "term": "前期",
+  "day": "火",
+  "period": 1,
+  "instructor": "神谷 幸宏",
+  "category": "専門必修",
+  "subcategory": "情報倫理・知的財産",
+  "field": "",
+
+
+  "grading": {
+    "exam": 0,
+    "report": 100,
+    "attendance": 0,
+    "description": "中間レポート50％、最終レポート50％で評価。授業ごとの課題提出を重視し、態度に問題がある場合は最大50%まで減点されることがある。"
+  },
+
+
+  "syllabus": {
+    "overview": "本講義では著作権・特許などの知的財産制度と、情報倫理・技術者倫理・研究倫理といった倫理観を学び、情報社会における行動判断に活かせる知識を身につける。前半では著作権の歴史と現状、デジタル時代における著作権の注意点や事例研究を扱い、続いて特許について制度と現状を学ぶ。後半では情報倫理、技術者倫理、研究倫理について、実際の事例を用いた研究・議論を通して理解を深める。実務経験をもつ教員による実践的視点を重視した講義となっている。",
+    "goals": [
+      "著作権・特許など知的財産の基本的概念を理解する",
+      "情報倫理・技術者倫理・研究倫理の基礎知識を身につける",
+      "事例分析を通じて倫理的判断力を養う",
+      "情報社会における行動の是非を判断できる能力を身につける",
+      "技術者・研究者として必要な倫理観を習得する"
+    ],
+    "textbook": "笠原正雄『情報技術の人間学−情報倫理へのプロローグ−』（コロナ社）, 辰己文夫『情報化社会と情報倫理』（共立出版）",
+    "prerequisites": "特に指定なし"
+  },
+
+
+  "difficulty_level": "初級〜中級",
+  "workload": "普通（週2〜4時間程度の課題・レポート作成が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "レポート（中間・期末）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
+
+
+
+
+{
+  "course_id": "（記載なし）",
+  "course_name": "線形代数Ⅰ",
+  "credits": 2,
+  "term": "前期",
+  "day": "木",
+  "period": 4,
+  "instructor": "大橋 あすか、鈴木 康之",
+  "category": "専門必修",
+  "subcategory": "数学基礎（線形代数）",
+  "field": "",
+
+
+  "grading": {
+    "exam": 80,
+    "report": 0,
+    "attendance": 20,
+    "description": "講義内演習や課題 20%、中間試験 40%、定期試験 40% による評価。行列演算、連立一次方程式、逆行列、行列式の理解が評価基準となる。日々の積み上げが試験結果に直結するため試験重視。"
+  },
+
+
+  "syllabus": {
+    "overview": "線形代数Ⅰでは、情報科学に必要な基礎数学として行列と線形代数の初歩を体系的に学ぶ。行列の定義・演算、連立一次方程式と基本行列、階段行列、逆行列、行列式の定義と性質、余因子展開など基礎理論を扱い、演習を通じて計算方法と論理的思考力を養う。数学的な見方・考え方を学ぶことに重点が置かれ、線形代数IIへの基盤を形成する講義となっている。",
+    "goals": [
+      "行列の定義・演算・転置の意味を理解する",
+      "連立一次方程式と基本行列による解法を習得する",
+      "逆行列の計算方法を理解し扱えるようにする",
+      "行列式の定義と性質を説明し計算できるようになる",
+      "数学的な論理構造に基づいて考える力を養う"
+    ],
+    "textbook": "『教養の線形代数 六訂版』村上正康ほか、培風館",
+    "prerequisites": "関連科目：線形代数II（続履修推奨）"
+  },
+
+
+  "difficulty_level": "中級",
+  "workload": "普通〜やや重め（週4〜6時間程度の演習・復習が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "中間・期末（筆記）＋講義内演習",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "（記載なし）",
+  "course_name": "離散数学Ⅰ",
+  "credits": 2,
+  "term": "前期",
+  "day": "木",
+  "period": 1,
+  "instructor": "太田 淳",
+  "category": "専門必修",
+  "subcategory": "数学基礎（離散数学）",
+  "field": "",
+
+
+  "grading": {
+    "exam": 60,
+    "report": 0,
+    "attendance": 40,
+    "description": "試験60％、課題30％、授業参加度10％で評価する。集合・関数・関係、代数、論理、帰納法、再帰的定義、整数の基本性質に関する基礎事項の理解が求められる。"
+  },
+
+
+  "syllabus": {
+    "overview": "離散数学Ⅰでは、情報科学の基盤となる集合・論理・関係・代数構造・整数論などを総合的に学ぶ。初等数学の知識と結びつけながら、集合や関数、論理、数学的帰納法、漸化式、関係、代数系、順序集合、束、ブール代数、ブール関数などを体系的に扱う。情報科学の理論科目（論理回路、離散数学II、形式言語とオートマトン等）を理解するための基礎的な概念を習得することを目的とし、毎回の宿題と演習を通して論理的思考力を養う内容となっている。",
+    "goals": [
+      "集合・関数・関係の基本概念を理解する",
+      "論理式と推論の基礎を習得する",
+      "数学的帰納法と再帰的定義を使いこなす",
+      "代数系（半群・群・環・体）の基礎構造を理解する",
+      "順序集合・束・ブール代数・ブール関数を説明できる"
+    ],
+    "textbook": "配布プリント",
+    "prerequisites": "関連科目：論理回路論、離散数学II、形式言語とオートマトン"
+  },
+
+
+  "difficulty_level": "中級",
+  "workload": "やや重め（週4〜7時間程度の演習・課題への取り組みが必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "筆記試験（期末）＋課題",
+    "retake_available": false,
+    "online_materials": false,
+    "group_work": false
+  }
+}
+
+
+{
+  "course_id": "（記載なし）",
+  "course_name": "論理回路論",
+  "credits": 2,
+  "term": "前期",
+  "day": "火",
+  "period": 4,
+  "instructor": "神谷 直希",
+  "category": "専門必修",
+  "subcategory": "情報数学・論理回路",
+  "field": "",
+
+
+  "grading": {
+    "exam": 100,
+    "report": 0,
+    "attendance": 0,
+    "description": "中間試験50％、定期試験50％によって理解度を評価する。ブール代数、論理関数、組合せ回路、順序回路設計などの理解が求められる。"
+  },
+
+
+  "syllabus": {
+    "overview": "論理回路論では、コンピュータを構成する基本的な回路の動作原理を理解するため、ブール代数および論理回路設計の基礎を体系的に学ぶ。前半では、N進数の表現、論理演算、ブール代数、真理値表、論理関数の標準形、カルノー図による論理関数の簡単化を扱う。後半では、組合せ回路として加算器・減算器などの設計、比較器、エンコーダ／デコーダ、マルチプレクサを学び、さらに順序回路として状態遷移、各種フリップフロップ、レジスタやカウンタの設計方法を学習する。論理設計の基礎力を身につけ、コンピュータアーキテクチャへの理解につなげることを目指す。",
+    "goals": [
+      "ブール代数の基本法則を理解し扱えるようになる",
+      "真理値表や標準形を用いて論理関数を扱うことができる",
+      "カルノー図により論理関数を簡単化できる",
+      "加算器などの基本的な組合せ回路を設計できる",
+      "フリップフロップと状態遷移を用いた順序回路を理解し設計できる"
+    ],
+    "textbook": "『論理回路入門（第4版）』浜辺隆二、森北出版（2021）",
+    "prerequisites": "受講要件なし"
+  },
+
+
+  "difficulty_level": "中級",
+  "workload": "普通〜やや重め（週4〜6時間程度の演習が必要）",
+  "pass_rate": null,
+
+
+  "student_evaluations": {
+    "interest": null,
+    "easiness": null,
+    "usefulness": null,
+    "comments": []
+  },
+
+
+  "additional_info": {
+    "exam_type": "中間試験・期末試験（筆記）",
+    "retake_available": false,
+    "online_materials": true,
+    "group_work": false
+  }
+}
