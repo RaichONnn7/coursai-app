@@ -56,86 +56,38 @@ export default function CoursAIApp() {
     console.log('📊 入力データ:', formData);
     
     try {
-      // Gemini APIを呼び出して履修プランを生成
-      const response = await fetch("https://api.anthropic.com/v1/messages", {
+      // バックエンドサーバーにリクエストを送信
+      const response = await fetch(`${API_URL}/api/generate-plan`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
-          max_tokens: 4000,
-          messages: [
-            {
-              role: "user",
-              content: `あなたは愛知県立大学情報科学部の履修アドバイザーAIです。以下の条件に基づいて、最適な履修プランを3パターン提案してください。
-
-【学生情報】
-- 学部: ${formData.department === 'information_science' ? '情報科学部' : formData.department}
-- 学年: ${formData.grade}年生
-- クラス: ${formData.class_number}クラス
-- 履修学期: ${formData.term}
-
-【履修条件】
-- 目標単位数: ${formData.target_credits}単位
-- 履修目的: ${formData.purpose === 'other' ? formData.purpose_other : formData.purpose}
-- 得意科目: ${formData.good_subjects || 'なし'}
-- 苦手科目: ${formData.weak_subjects || 'なし'}
-- 時限指定: ${formData.schedule_no_preference ? 'なし（全時間帯OK）' : JSON.stringify(formData.schedule_preferences)}
-- 1日の最大コマ数: ${formData.max_classes_per_day === 'none' ? '制限なし' : formData.max_classes_per_day + 'コマ'}
-- 成績評価の好み: ${formData.grading_preference}
-
-【提案してほしいこと】
-1. 「単位取得重視パターン」「バランス型パターン」「専門性重視パターン」の3パターン
-2. 各パターンには教養科目と専門科目の両方を含める
-3. 情報科学部${formData.grade}年生に適した専門必修科目を含める
-4. 各科目の選定理由を明確に示す
-
-【出力形式】
-以下のJSON形式で出力してください。JSON以外の文字は一切含めないでください：
-
-{
-  "patterns": [
-    {
-      "name": "パターン名",
-      "description": "パターンの説明",
-      "courses": [
-        {
-          "id": "科目コード",
-          "name": "科目名",
-          "credits": 単位数（数値）,
-          "day": "曜日（月/火/水/木/金）",
-          "period": 時限（1-6の数値）,
-          "reason": "選定理由",
-          "type": "科目種別（教養選択/専門必修/専門選択）"
-        }
-      ],
-      "expected_workload": "負荷レベル（軽い/普通/やや重い/重い）",
-      "estimated_gpa": 予測GPA（数値、例: 3.2）
-    }
-  ],
-  "reasoning": "全体的な提案理由の説明文"
-}
-
-DO NOT OUTPUT ANYTHING OTHER THAN VALID JSON. 必ずJSON形式のみで出力してください。`
-            }
-          ]
+          student_info: {
+            department: formData.department,
+            grade: formData.grade,
+            class_number: formData.class_number,
+            term: formData.term
+          },
+          conditions: {
+            target_credits: formData.target_credits,
+            purpose: formData.purpose === 'other' ? formData.purpose_other : formData.purpose,
+            good_subjects: formData.good_subjects,
+            weak_subjects: formData.weak_subjects,
+            schedule_preferences: formData.schedule_no_preference ? null : formData.schedule_preferences,
+            max_classes_per_day: formData.max_classes_per_day,
+            grading_preference: formData.grading_preference
+          }
         })
       });
 
       if (!response.ok) {
-        throw new Error(`API request failed: ${response.status}`);
+        throw new Error(`サーバーエラー: ${response.status}`);
       }
 
-      const data = await response.json();
-      let responseText = data.content[0].text;
+      const apiResult = await response.json();
       
-      // マークダウンのコードブロックを削除
-      responseText = responseText.replace(/```json\n?/g, "").replace(/```\n?/g, "").trim();
-      
-      console.log('📥 API Response:', responseText);
-      
-      const apiResult = JSON.parse(responseText);
+      console.log('📥 API Response:', apiResult);
       
       // 時間割データを生成
       const enrichedPatterns = apiResult.patterns.map(pattern => {
