@@ -1,3 +1,7 @@
+'use client';
+
+  // 先頭に追加した。
+
 import React, { useState } from 'react';
 import { BookOpen, Sparkles, ChevronRight, X, Clock, AlertCircle, CheckCircle, Calendar, Award, TrendingUp } from 'lucide-react';
 
@@ -9,6 +13,7 @@ export default function CoursAIApp() {
     department: 'information_science',
     grade: '1',
     class_number: 'A',
+    term: '前期',
     purpose: 'balance',
     purpose_other: '',
     target_credits: '20',
@@ -28,7 +33,7 @@ export default function CoursAIApp() {
   const [result, setResult] = useState(null);
   const [selectedDay, setSelectedDay] = useState(null);
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080';
+  const API_URL = 'http://localhost:8080';
 
   const getDemoResult = () => ({
     patterns: [
@@ -245,7 +250,7 @@ const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080';
         estimated_gpa: 3.3
       }
     ],
-    reasoning: `${formData.grade}年生・クラス${formData.class_number}として、目標単位数${formData.target_credits}単位を考慮して提案しました。愛知県立大学の実際のシラバスから、あなたの履修目的「${formData.purpose === 'other' ? formData.purpose_other : formData.purpose}」に最適な科目を選定しています。※同じ時限に複数の科目候補がある場合は「候補」と表記しています。実際に履修登録できるのは1時限に1科目のみです。${formData.schedule_no_preference ? '時限指定なしで全時間帯から検索しました。' : '希望時限に基づいて検索しました。'}${formData.good_subjects ? '得意科目（' + formData.good_subjects + '）を活かせる科目を優先的に含めました。' : ''}${formData.weak_subjects ? '苦手科目（' + formData.weak_subjects + '）は避けています。' : ''}`
+    reasoning: `${formData.grade}年生・クラス${formData.class_number}・${formData.term}として、目標単位数${formData.target_credits}単位を考慮して提案しました。愛知県立大学の実際のシラバスから、あなたの履修目的「${formData.purpose === 'other' ? formData.purpose_other : formData.purpose}」に最適な科目を選定しています。※同じ時限に複数の科目候補がある場合は「候補」と表記しています。実際に履修登録できるのは1時限に1科目のみです。${formData.schedule_no_preference ? '時限指定なしで全時間帯から検索しました。' : '希望時限に基づいて検索しました。'}${formData.good_subjects ? '得意科目（' + formData.good_subjects + '）を活かせる科目を優先的に含めました。' : ''}${formData.weak_subjects ? '苦手科目（' + formData.weak_subjects + '）は避けています。' : ''}`
   });
 
   const handleSubmit = () => {
@@ -531,6 +536,30 @@ const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080';
                       <option key={letter} value={letter}>{letter}クラス</option>
                     ))}
                   </select>
+                </div>
+              </div>
+              
+              <div className="mt-4">
+                <label className="block text-xs md:text-sm font-semibold text-gray-700 mb-2">履修学期</label>
+                <div className="grid grid-cols-2 gap-3">
+                  {[
+                    { value: '前期', label: '前期', icon: '🌸' },
+                    { value: '後期', label: '後期', icon: '🍂' }
+                  ].map(opt => (
+                    <button
+                      key={opt.value}
+                      type="button"
+                      onClick={() => handleInputChange('term', opt.value)}
+                      className={`p-3 rounded-xl border-2 transition text-sm md:text-base ${
+                        formData.term === opt.value
+                          ? 'border-blue-500 bg-blue-50 shadow-md'
+                          : 'border-gray-200 hover:border-gray-300'
+                      }`}
+                    >
+                      <span className="text-xl md:text-2xl mr-2">{opt.icon}</span>
+                      <span className="font-medium">{opt.label}</span>
+                    </button>
+                  ))}
                 </div>
               </div>
             </div>
