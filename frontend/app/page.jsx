@@ -35,225 +35,7 @@ export default function CoursAIApp() {
 
   const API_URL = 'http://localhost:8080';
 
-  const getDemoResult = () => ({
-    patterns: [
-      {
-        name: "単位取得重視パターン",
-        description: "合格率が高く、レポート中心の評価で確実に単位を積み重ねるプラン",
-        total_credits: 10,
-        courses: [
-          {
-            id: "LARH1EA1J14",
-            name: "アフリカの歴史と文化",
-            credits: 2,
-            day: "月",
-            period: 3,
-            reason: "レポート30%で評価が明確。地域研究の基礎知識を獲得",
-            type: "教養選択"
-          },
-          {
-            id: "LAHS1CA1J14",
-            name: "健康とこころの科学",
-            credits: 2,
-            day: "月",
-            period: 4,
-            reason: "メンタルヘルス対策を学べる実用科目",
-            type: "教養選択"
-          },
-          {
-            id: "LARA1AA1J14",
-            name: "フィールドで学ぶ社会",
-            credits: 2,
-            day: "金",
-            period: 3,
-            reason: "実践的な社会調査を体験。レポート70%で評価",
-            type: "教養選択"
-          },
-          {
-            id: "LAHN2EA1J14",
-            name: "生命の科学",
-            credits: 2,
-            day: "金",
-            period: 4,
-            reason: "DNA・遺伝・再生医療など現代的トピック",
-            type: "教養選択"
-          },
-          {
-            id: "LARH1BA1J14",
-            name: "ヨーロッパの歴史と文化",
-            credits: 2,
-            day: "月",
-            period: 3,
-            reason: "試験70%。各時代の特徴を体系的に学習（候補）",
-            type: "教養選択・候補"
-          }
-        ],
-        timetable: {
-          "月": [
-            { period: 3, course: "アフリカの歴史と文化", credits: 2 },
-            { period: 4, course: "健康とこころの科学", credits: 2 }
-          ],
-          "火": [],
-          "水": [],
-          "木": [],
-          "金": [
-            { period: 3, course: "フィールドで学ぶ社会", credits: 2 },
-            { period: 4, course: "生命の科学", credits: 2 }
-          ]
-        },
-        expected_workload: "普通",
-        estimated_gpa: 3.4
-      },
-      {
-        name: "バランス型パターン",
-        description: formData.good_subjects ? 
-          `得意科目（${formData.good_subjects}）を活かしつつ、幅広い教養を身につけるプラン` :
-          "興味深い内容と単位取得のバランスを考慮した実践的プラン",
-        total_credits: 10,
-        courses: [
-          {
-            id: "LAHH1CA1J14",
-            name: "文学入門",
-            credits: 2,
-            day: "月",
-            period: 3,
-            reason: "コナン・ドイル原文読解。英語力向上",
-            type: "教養選択"
-          },
-          {
-            id: "LASM1AA1J14",
-            name: "日本国憲法",
-            credits: 2,
-            day: "月",
-            period: 4,
-            reason: "判例を読み解く論理的思考力を養成",
-            type: "教養選択"
-          },
-          {
-            id: "LASP1AA1J12",
-            name: "地域社会とキャリア構想",
-            credits: 2,
-            day: "金",
-            period: 4,
-            reason: "将来設計に役立つ",
-            type: "教養選択"
-          },
-          {
-            id: "LAHN1CA1J14",
-            name: "地球の科学",
-            credits: 2,
-            day: "金",
-            period: 4,
-            reason: "地球システムの理解（候補）",
-            type: "教養選択・候補"
-          },
-          {
-            id: "LAHH1BA1J14-1",
-            name: "心理学入門",
-            credits: 2,
-            day: "金",
-            period: 3,
-            reason: "心理学の基礎。日常に活かせる知識",
-            type: "教養選択"
-          }
-        ],
-        timetable: {
-          "月": [
-            { period: 3, course: "文学入門", credits: 2 },
-            { period: 4, course: "日本国憲法", credits: 2 }
-          ],
-          "火": [],
-          "水": [],
-          "木": [],
-          "金": [
-            { period: 3, course: "心理学入門", credits: 2 },
-            { period: 4, course: "地域社会とキャリア構想", credits: 2 }
-          ]
-        },
-        expected_workload: "普通",
-        estimated_gpa: 3.2
-      },
-      {
-        name: "専門性重視パターン",
-        description: "情報科学部での学びを深める関連科目と、思考力を鍛える科目を組み合わせたプラン",
-        total_credits: 10,
-        courses: [
-          {
-            id: "LASM2IA1J14",
-            name: "高度情報社会の理解",
-            credits: 2,
-            day: "月",
-            period: 4,
-            reason: "生成AI・IoTなど最新技術",
-            type: "教養選択"
-          },
-          {
-            id: "LASM1CA1J14",
-            name: "政治学入門",
-            credits: 2,
-            day: "月",
-            period: 3,
-            reason: "論理的思考力を養成",
-            type: "教養選択"
-          },
-          {
-            id: "LARA1AA1J14",
-            name: "フィールドで学ぶ社会",
-            credits: 2,
-            day: "金",
-            period: 3,
-            reason: "データ分析の実践",
-            type: "教養選択"
-          },
-          {
-            id: "LAHN2EA1J14",
-            name: "生命の科学",
-            credits: 2,
-            day: "金",
-            period: 4,
-            reason: "DNA・遺伝子組換えなど",
-            type: "教養選択"
-          },
-          {
-            id: "LAHN1AA1J14",
-            name: "教養のための科学",
-            credits: 2,
-            day: "月",
-            period: 4,
-            reason: "科学技術と社会のつながり（候補）",
-            type: "教養選択・候補"
-          },
-          {
-            id: "LASP1CA1J12",
-            name: "日本語表現法",
-            credits: 2,
-            day: "月",
-            period: 3,
-            reason: "技術文書作成に必須（候補）",
-            type: "教養選択・候補"
-          }
-        ],
-        timetable: {
-          "月": [
-            { period: 3, course: "政治学入門", credits: 2 },
-            { period: 4, course: "高度情報社会の理解", credits: 2 }
-          ],
-          "火": [],
-          "水": [],
-          "木": [],
-          "金": [
-            { period: 3, course: "フィールドで学ぶ社会", credits: 2 },
-            { period: 4, course: "生命の科学", credits: 2 }
-          ]
-        },
-        expected_workload: "普通",
-        estimated_gpa: 3.3
-      }
-    ],
-    reasoning: `${formData.grade}年生・クラス${formData.class_number}・${formData.term}として、目標単位数${formData.target_credits}単位を考慮して提案しました。愛知県立大学の実際のシラバスから、あなたの履修目的「${formData.purpose === 'other' ? formData.purpose_other : formData.purpose}」に最適な科目を選定しています。※同じ時限に複数の科目候補がある場合は「候補」と表記しています。実際に履修登録できるのは1時限に1科目のみです。${formData.schedule_no_preference ? '時限指定なしで全時間帯から検索しました。' : '希望時限に基づいて検索しました。'}${formData.good_subjects ? '得意科目（' + formData.good_subjects + '）を活かせる科目を優先的に含めました。' : ''}${formData.weak_subjects ? '苦手科目（' + formData.weak_subjects + '）は避けています。' : ''}`
-  });
-
-  const handleSubmit = () => {
+  const handleSubmit = async () => {
     // ボタン連打防止
     if (loading) {
       console.log('⚠️ 既に処理中です');
@@ -273,21 +55,139 @@ export default function CoursAIApp() {
 
     console.log('📊 入力データ:', formData);
     
-    // デモモードで直接結果を表示
-    setTimeout(() => {
-      try {
-        const demoData = getDemoResult();
-        console.log('✅ デモデータ生成完了:', demoData);
-        setResult(demoData);
-        setStep('result');
-        console.log('✅ 結果画面に遷移');
-      } catch (err) {
-        console.error('❌ エラー:', err);
-        setError('データの生成に失敗しました');
-      } finally {
-        setLoading(false);
+    try {
+      // Gemini APIを呼び出して履修プランを生成
+      const response = await fetch("https://api.anthropic.com/v1/messages", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          model: "claude-sonnet-4-20250514",
+          max_tokens: 4000,
+          messages: [
+            {
+              role: "user",
+              content: `あなたは愛知県立大学情報科学部の履修アドバイザーAIです。以下の条件に基づいて、最適な履修プランを3パターン提案してください。
+
+【学生情報】
+- 学部: ${formData.department === 'information_science' ? '情報科学部' : formData.department}
+- 学年: ${formData.grade}年生
+- クラス: ${formData.class_number}クラス
+- 履修学期: ${formData.term}
+
+【履修条件】
+- 目標単位数: ${formData.target_credits}単位
+- 履修目的: ${formData.purpose === 'other' ? formData.purpose_other : formData.purpose}
+- 得意科目: ${formData.good_subjects || 'なし'}
+- 苦手科目: ${formData.weak_subjects || 'なし'}
+- 時限指定: ${formData.schedule_no_preference ? 'なし（全時間帯OK）' : JSON.stringify(formData.schedule_preferences)}
+- 1日の最大コマ数: ${formData.max_classes_per_day === 'none' ? '制限なし' : formData.max_classes_per_day + 'コマ'}
+- 成績評価の好み: ${formData.grading_preference}
+
+【提案してほしいこと】
+1. 「単位取得重視パターン」「バランス型パターン」「専門性重視パターン」の3パターン
+2. 各パターンには教養科目と専門科目の両方を含める
+3. 情報科学部${formData.grade}年生に適した専門必修科目を含める
+4. 各科目の選定理由を明確に示す
+
+【出力形式】
+以下のJSON形式で出力してください。JSON以外の文字は一切含めないでください：
+
+{
+  "patterns": [
+    {
+      "name": "パターン名",
+      "description": "パターンの説明",
+      "courses": [
+        {
+          "id": "科目コード",
+          "name": "科目名",
+          "credits": 単位数（数値）,
+          "day": "曜日（月/火/水/木/金）",
+          "period": 時限（1-6の数値）,
+          "reason": "選定理由",
+          "type": "科目種別（教養選択/専門必修/専門選択）"
+        }
+      ],
+      "expected_workload": "負荷レベル（軽い/普通/やや重い/重い）",
+      "estimated_gpa": 予測GPA（数値、例: 3.2）
+    }
+  ],
+  "reasoning": "全体的な提案理由の説明文"
+}
+
+DO NOT OUTPUT ANYTHING OTHER THAN VALID JSON. 必ずJSON形式のみで出力してください。`
+            }
+          ]
+        })
+      });
+
+      if (!response.ok) {
+        throw new Error(`API request failed: ${response.status}`);
       }
-    }, 1500);
+
+      const data = await response.json();
+      let responseText = data.content[0].text;
+      
+      // マークダウンのコードブロックを削除
+      responseText = responseText.replace(/```json\n?/g, "").replace(/```\n?/g, "").trim();
+      
+      console.log('📥 API Response:', responseText);
+      
+      const apiResult = JSON.parse(responseText);
+      
+      // 時間割データを生成
+      const enrichedPatterns = apiResult.patterns.map(pattern => {
+        const timetable = {
+          "月": [],
+          "火": [],
+          "水": [],
+          "木": [],
+          "金": []
+        };
+        
+        pattern.courses.forEach(course => {
+          if (timetable[course.day]) {
+            timetable[course.day].push({
+              period: course.period,
+              course: course.name,
+              credits: course.credits
+            });
+          }
+        });
+        
+        // 各曜日の時限順にソート
+        Object.keys(timetable).forEach(day => {
+          timetable[day].sort((a, b) => a.period - b.period);
+        });
+        
+        // 時間割から総単位数と科目数を算出
+        const allCourses = Object.values(timetable).flat();
+        const totalCredits = allCourses.reduce((sum, course) => sum + course.credits, 0);
+        
+        return {
+          ...pattern,
+          timetable,
+          total_credits: totalCredits
+        };
+      });
+      
+      const finalResult = {
+        patterns: enrichedPatterns,
+        reasoning: apiResult.reasoning
+      };
+      
+      console.log('✅ 履修プラン生成完了:', finalResult);
+      setResult(finalResult);
+      setStep('result');
+      
+    } catch (err) {
+      console.error('❌ エラー:', err);
+      setError('履修プランの生成に失敗しました: ' + err.message);
+    } finally {
+      setLoading(false);
+    }
   };
 
   const handleInputChange = (field, value) => {
